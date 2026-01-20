@@ -1,3 +1,10 @@
+---
+layout: page
+title: Child Safety & CSAE Prevention Standards
+permalink: /child-safety/
+comments: false
+---
+
 Child Safety & CSAE Prevention Standards
 
 At NRI Meet, we have a zero-tolerance policy toward any content or behavior that exploits or endangers children. We are committed to maintaining a safe environment for all users and strictly prohibit Child Sexual Abuse and Exploitation (CSAE) in all its forms.
