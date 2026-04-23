@@ -1,0 +1,287 @@
+---
+layout: default
+title: You've been invited to NRI Meet
+permalink: "/ref/"
+comments: false
+---
+
+<style>
+  .referral-hero {
+    max-width: 560px;
+    margin: 0 auto;
+    padding: 32px 20px 60px;
+    text-align: center;
+  }
+
+  .referral-hero .kicker {
+    display: inline-block;
+    background: linear-gradient(135deg, #F43F5E, #7C3AED);
+    color: #fff;
+    padding: 6px 14px;
+    border-radius: 999px;
+    font-weight: 600;
+    font-size: 12px;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+  }
+
+  .referral-hero h1 {
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 1.25;
+    margin-bottom: 14px;
+    color: #1C1917;
+  }
+
+  .referral-hero p.sub {
+    font-size: 16px;
+    color: #57534E;
+    margin-bottom: 28px;
+    line-height: 1.5;
+  }
+
+  .code-card {
+    background: #fff;
+    border: 1px solid #E7E5E4;
+    border-radius: 20px;
+    padding: 22px 20px;
+    margin: 0 auto 28px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.06);
+  }
+
+  .code-card .label {
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.16em;
+    color: #A8A29E;
+    margin-bottom: 8px;
+  }
+
+  .code-card .code {
+    font-family: "SFMono-Regular", Menlo, Consolas, monospace;
+    font-size: 34px;
+    font-weight: 700;
+    color: #E11D48;
+    letter-spacing: 6px;
+    margin-bottom: 14px;
+  }
+
+  .btn-copy {
+    background: #FFF1F2;
+    color: #E11D48;
+    border: 1px solid #FECDD3;
+    border-radius: 10px;
+    padding: 8px 16px;
+    font-weight: 600;
+    font-size: 14px;
+    cursor: pointer;
+  }
+
+  .btn-copy:hover { background: #FECDD3; }
+
+  .store-row {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin: 10px 0 24px;
+    flex-wrap: wrap;
+  }
+
+  .store-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: #1C1917;
+    color: #fff !important;
+    border-radius: 12px;
+    padding: 12px 22px;
+    font-weight: 600;
+    font-size: 15px;
+    text-decoration: none !important;
+  }
+
+  .store-btn:hover { background: #292524; color: #fff; }
+
+  .store-btn img { width: 18px; height: 18px; }
+
+  .open-app-btn {
+    display: inline-block;
+    background: linear-gradient(135deg, #E11D48, #BE123C);
+    color: #fff !important;
+    border-radius: 14px;
+    padding: 14px 32px;
+    font-weight: 600;
+    font-size: 16px;
+    text-decoration: none !important;
+    margin-bottom: 12px;
+  }
+
+  .section-heading {
+    font-size: 13px;
+    font-weight: 600;
+    color: #78716C;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin: 26px 0 12px;
+  }
+
+  .how-steps {
+    text-align: left;
+    background: #FAFAF9;
+    border: 1px solid #E7E5E4;
+    border-radius: 14px;
+    padding: 16px 20px;
+    margin-top: 10px;
+  }
+
+  .how-steps ol {
+    margin: 0;
+    padding-left: 20px;
+    color: #44403C;
+    font-size: 14px;
+    line-height: 1.7;
+  }
+
+  .how-steps strong { color: #E11D48; }
+
+  .no-code {
+    background: #FEF3C7;
+    color: #92400E;
+    border-radius: 12px;
+    padding: 14px 16px;
+    margin-bottom: 24px;
+    font-size: 14px;
+  }
+
+  #copiedFlash {
+    display: none;
+    color: #10B981;
+    font-size: 13px;
+    margin-top: 6px;
+  }
+</style>
+
+<div class="referral-hero">
+  <span class="kicker">🎁 Premium Invite</span>
+  <h1 id="heroTitle">You've been invited to NRI Meet</h1>
+  <p class="sub" id="heroSub">
+    Use this code at signup and get <strong>3 days of Premium free</strong>.
+    Your friend gets 7 days when you finish your profile.
+  </p>
+
+  <div id="codeCard" class="code-card" style="display:none">
+    <div class="label">YOUR INVITE CODE</div>
+    <div class="code" id="codeText">—</div>
+    <button class="btn-copy" onclick="copyCode()">Copy code</button>
+    <div id="copiedFlash">Copied to clipboard</div>
+  </div>
+
+  <div id="noCodeNotice" class="no-code" style="display:none">
+    No invite code detected — you can still download the app and enter a code later from the Refer tab.
+  </div>
+
+  <a id="openAppBtn" href="#" class="open-app-btn" style="display:none">
+    Open in NRI Meet
+  </a>
+
+  <div class="section-heading">Don't have the app yet?</div>
+  <div class="store-row">
+    <a
+      id="appStoreBtn"
+      class="store-btn"
+      href="https://apps.apple.com/us/app/nri-meet-find-meet-marry-nris/id6448742453"
+      target="_blank"
+      rel="noopener"
+    >
+       App Store
+    </a>
+    <a
+      id="playStoreBtn"
+      class="store-btn"
+      href="https://play.google.com/store/apps/details?id=com.koottali.app&hl=en_IN&gl=US"
+      target="_blank"
+      rel="noopener"
+    >
+       Google Play
+    </a>
+  </div>
+
+  <div class="how-steps">
+    <div class="section-heading" style="margin-top:0">How to redeem</div>
+    <ol>
+      <li>Install NRI Meet from the store above.</li>
+      <li>Sign up with your email, Google, or Apple account.</li>
+      <li>Go to the <strong>Refer</strong> tab at the bottom.</li>
+      <li>Tap <em>Have a code?</em> and enter
+        <strong id="codeInline">your code</strong>.
+      </li>
+    </ol>
+  </div>
+</div>
+
+<script>
+  (function () {
+    function getCode() {
+      // 1. Query string: /ref/?code=ABC1234
+      var params = new URLSearchParams(window.location.search);
+      var code = params.get("code");
+      if (code) return code.trim().toUpperCase();
+      // 2. Path segment: /ref/ABC1234 (served via 404 redirect, but handle
+      //    direct hits too in case the redirect ever changes).
+      var m = window.location.pathname.match(/\/ref\/([A-Za-z0-9_-]+)/);
+      if (m) return m[1].toUpperCase();
+      return null;
+    }
+
+    var code = getCode();
+    var codeCard = document.getElementById("codeCard");
+    var codeText = document.getElementById("codeText");
+    var codeInline = document.getElementById("codeInline");
+    var openAppBtn = document.getElementById("openAppBtn");
+    var noCode = document.getElementById("noCodeNotice");
+
+    if (code) {
+      codeCard.style.display = "block";
+      codeText.textContent = code;
+      codeInline.textContent = code;
+      openAppBtn.href = "koottali://ref/" + encodeURIComponent(code);
+      openAppBtn.style.display = "inline-block";
+      try {
+        document.title = "Code " + code + " | NRI Meet Invite";
+      } catch (e) {}
+    } else {
+      noCode.style.display = "block";
+    }
+
+    // Reorder store buttons to put the user's likely platform first.
+    var ua = navigator.userAgent || "";
+    var storeRow = document.querySelector(".store-row");
+    var appStore = document.getElementById("appStoreBtn");
+    var playStore = document.getElementById("playStoreBtn");
+    if (/android/i.test(ua) && storeRow && playStore && appStore) {
+      storeRow.insertBefore(playStore, appStore);
+    }
+
+    window.copyCode = function () {
+      if (!code) return;
+      var flash = document.getElementById("copiedFlash");
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(code).then(function () {
+          flash.style.display = "block";
+          setTimeout(function () { flash.style.display = "none"; }, 1800);
+        });
+      } else {
+        // Fallback for older browsers
+        var input = document.createElement("input");
+        input.value = code;
+        document.body.appendChild(input);
+        input.select();
+        try { document.execCommand("copy"); } catch (e) {}
+        document.body.removeChild(input);
+        flash.style.display = "block";
+        setTimeout(function () { flash.style.display = "none"; }, 1800);
+      }
+    };
+  })();
+</script>

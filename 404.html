@@ -4,7 +4,16 @@ title: 404
 permalink: /404.html
 ---
 <script>
-    window.location.href = "/categories";
+    (function () {
+        // Referral deep link fallback: /ref/CODE → /ref/?code=CODE so the
+        // Jekyll-rendered landing page at /ref/ can pick up the invite code.
+        var refMatch = window.location.pathname.match(/^\/ref\/([A-Za-z0-9_-]+)\/?$/);
+        if (refMatch) {
+            window.location.replace("/ref/?code=" + encodeURIComponent(refMatch[1]));
+            return;
+        }
+        window.location.href = "/categories";
+    })();
 </script>
 
 <div class="text-center">
