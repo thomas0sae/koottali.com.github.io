@@ -1,16 +1,26 @@
-title: "NRI Meet App"
+title: "NRI Meet"
+tagline: "Indian Dating App for NRIs Worldwide"
+description: >-
+  NRI Meet is a free Indian dating app that connects NRI and Indian singles
+  worldwide. Verified profiles, real conversations, and matches that
+  understand your culture. Download free for iOS and Android.
 email: marketing@nrimeet.app
 timezone: UTC
 url: https://nrimeet.app
-baseurl: "/"
+baseurl: ""
 permalink: "/:title/"
 logo: "assets/images/logo.png"
+image: "assets/images/smallbanner.jpg"
 favicon: "assets/images/ktnew.svg"
-author: NRI Meet
-paginate: 30
+# Mapping (not a bare string) so jekyll-seo-tag emits a valid twitter:creator.
+# A plain string here produces `@NRI Meet`, which is not a real handle.
+author:
+  name: NRI Meet
+  twitter: nrimeetapp
+paginate: 12
 disqus: "nrimeet.app"
-locale: en_us
-lang: en_us
+locale: en_US
+lang: en
 feed_items: 10
 feed_update_period: daily
 feed_update_frequency: 1
@@ -20,33 +30,50 @@ kramdown:
     disable: true
 sass:
   sass_dir: _sass
-  style: :compressed
+  style: compressed
 ganalytics: G-016V8HJ3KD
 
-# Authors
-authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    avatar: "assets/images/sal.png"
-    email: marketing@koottali.com
-    web: https://www.nrimeet.app
-    twitter: https://twitter.com/koottali
-    description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: NRI Meet
-    display_name: NRI Meet
-    avatar: "assets/images/john.png"
-    email: marketing@koottali.com
-    web: https://www.nrimeet.app/
-    twitter: https://twitter.com/nrimeetapp
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
+# App store links, referenced across pages so they live in one place.
+app:
+  ios: "https://apps.apple.com/us/app/nri-meet-find-meet-marry-nris/id6448742453"
+  android: "https://play.google.com/store/apps/details?id=com.koottali.app&hl=en_IN&gl=US"
 
-# Social
+# SEO
+twitter:
+  username: nrimeetapp
+  card: summary_large_image
 social:
+  name: NRI Meet
+  links:
+    - https://www.instagram.com/koottaliapp/
+    - https://www.facebook.com/profile.php?id=100063668094904
+    - https://twitter.com/nrimeetapp
+  # Kept flat for templates that read them directly.
   instagram: https://www.instagram.com/koottaliapp/
   facebook: https://www.facebook.com/profile.php?id=100063668094904
-  twitter: https://twitter.com/koottali
+  twitter: https://twitter.com/nrimeetapp
+
+# Authors
+# Author profiles live in _data/authors.yml — jekyll-seo-tag resolves a post's
+# `author:` key against site.data.authors, not against a config key.
+
+# Front matter defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "john"
+      comments: true
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+      # seo-tag has no site-wide og:image fallback, so give pages a default
+      # sharing image here. The page layout does not render it as a banner.
+      image: "assets/images/smallbanner.jpg"
 
 # Plugins
 plugins:
@@ -54,4 +81,14 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-archives
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.txt
+  - README.md
+  - vendor
+  - .bundle
+  - .travis.yml
+  - .jekyll-cache
+  - .github

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Ten Tips to Overcome Procrastination in Relationships: A Guide to Building the Best Connections on NRI Meet India"
-categories: [nri-meet, dating, india dating, indian dating, nri-meet dating app]
-image: assets/images/had6.jpg
+categories: [dating advice, relationships]
+image: /assets/images/had6.jpg
 ---
 
 In the world of best connections, love, dating, friendships, and digital chats through the [NRI Meet Indian Dating App](https://nrimeet.app/download)

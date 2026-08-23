@@ -1,0 +1,24 @@
+# Authors live here rather than in _config.yml because jekyll-seo-tag resolves
+# a post's `author:` key against site.data.authors. When they were defined in
+# _config.yml, seo-tag could not resolve them and emitted the raw key as the
+# handle, producing twitter:creator="@john".
+#
+# `twitter` must be a bare handle, not a URL — seo-tag prefixes it with "@".
+
+john:
+  name: NRI Meet
+  display_name: NRI Meet
+  avatar: "assets/images/john.png"
+  email: marketing@nrimeet.app
+  web: https://nrimeet.app/
+  twitter: nrimeetapp
+  description: "The NRI Meet team — building a safer, warmer way for Indian singles around the world to meet."
+
+sal:
+  name: Sal
+  display_name: Sal
+  avatar: "assets/images/sal.png"
+  email: marketing@nrimeet.app
+  web: https://nrimeet.app/
+  twitter: nrimeetapp
+  description: "Writes about dating, relationships and culture for the NRI Meet community."

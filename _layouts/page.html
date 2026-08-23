@@ -2,24 +2,36 @@
 layout: default
 ---
 
-<!-- Post Featured Image -->
-{% if page.image %}
-<div class="text-center mx-auto mb-5">
-  <img
-    class="featured-image text-center mx-auto rounded"
-    src="{{ site.baseurl }}/{{ page.image }}"
-    alt="{{ page.title }}"
-  />
-</div>
-{% endif %}
-<!-- End Featured Image -->
-
-<div class="col-lg-10 mx-auto">
-  <div class="mainheading">
-    <h1 class="posttitle">{{ page.title }}</h1>
+<div class="col-lg-9 mx-auto">
+  <div class="page-hero">
+    <h1>{{ page.title }}</h1>
+    {% if page.subtitle %}
+    <p>{{ page.subtitle }}</p>
+    {% endif %}
   </div>
 
-  <div class="article-post serif-font">{{content}}</div>
+  {% comment %}
+    `page.image` is set for every page via _config.yml defaults so that
+    jekyll-seo-tag can emit og:image. It is deliberately NOT rendered as a
+    banner here — a stock header image on the privacy policy and terms pages
+    is noise. Posts still render their own featured image.
+  {% endcomment %}
+
+  <div class="article-post">
+    {{ content }}
+
+    {% if page.faq %}
+    <h2 id="faq">Frequently asked questions</h2>
+    <div class="faq-list">
+      {% for item in page.faq %}
+      <div class="faq-item">
+        <h3>{{ item.q }}</h3>
+        <p>{{ item.a }}</p>
+      </div>
+      {% endfor %}
+    </div>
+    {% endif %}
+  </div>
 
   {% if page.comments == true %}
   <div id="comments">{% include disqus.html %}</div>

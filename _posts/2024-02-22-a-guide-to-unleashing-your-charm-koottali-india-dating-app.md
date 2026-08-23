@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Top Tips to Unleash Your Inner Attraction: Proven Ways to Boost Your Charm"
-categories: [nri-meet, dating, india dating, indian dating, nri-meet dating app]
-image: assets/images/had9.jpg
+categories: [dating advice, meeting people]
+image: /assets/images/had9.jpg
 ---
 
 

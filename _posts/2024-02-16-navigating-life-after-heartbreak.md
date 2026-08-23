@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Healing and Renewal: Navigating Life After Heartbreak | NRI Meet: Indian Dating App "
-categories: [nri-meet, dating, indian dating, india dating app]
-image: assets/images/ha8.jpg
+categories: [dating advice, relationships]
+image: /assets/images/ha8.jpg
 ---
 
 ### Start a New Chapter After a Heartbreak. NRI Meet: Indian Dating App can help!

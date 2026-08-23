@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Top 8 tips for nurturing Long-Distance Love with NRI Meet India"
-categories: [nri-meet, dating, india dating, indian dating, nri-meet dating app]
-image: assets/images/hae5.jpg
+categories: [dating advice, long distance]
+image: /assets/images/hae5.jpg
 ---
 
 In the world of connections, love, friendships, and digital chats through the [NRI Meet Indian Dating App](https://nrimeet.app/download)

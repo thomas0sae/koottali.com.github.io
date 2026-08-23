@@ -1,22 +1,46 @@
 ---
-title: "Categories"
 layout: default
-permalink: "/categories.html"
 ---
-{% for category in site.categories %}
-<h4 class="mt-5 mb-4 pb-2 border-bottom" id="{{ category[0] | replace: " ","-" }}"><span class="text-capitalize small font-weight-bold">In "{{ category[0] }}"</span></h4>
-<div class="row">
-{% assign pages_list = category[1] %}
-{% for post in pages_list %}
-{% if post.title != null %}
-{% if group == null or group == post.group %}
-<div class="col-md-4 mb-5">
-{% include postbox.html %}
+
+<div class="page-hero">
+  <span class="eyebrow">Blog</span>
+  <h1>{{ page.title }}</h1>
+  {% if page.subtitle %}
+  <p>{{ page.subtitle }}</p>
+  {% endif %}
+</div>
+
+{% comment %} Jump links to each category section. {% endcomment %}
+{% if site.categories.size > 0 %}
+<div style="margin-bottom: 40px">
+  <ul class="tags">
+    {% assign sorted_cats = site.categories | sort %}
+    {% for category in sorted_cats %}
+    <li><a href="#{{ category[0] | slugify }}">{{ category[0] }}</a></li>
+    {% endfor %}
+  </ul>
 </div>
 {% endif %}
-{% endif %}
-{% endfor %}
-{% assign pages_list = nil %}
-{% assign group = nil %}
-</div>
+
+{% assign sorted_categories = site.categories | sort %}
+{% for category in sorted_categories %}
+<section class="section" aria-labelledby="cat-{{ category[0] | slugify }}">
+  <div class="section-head">
+    <h2 id="cat-{{ category[0] | slugify }}">
+      <span id="{{ category[0] | slugify }}"></span>{{ category[0] }}
+    </h2>
+    <p>
+      {{ category[1] | size }} article{% if category[1].size != 1 %}s{% endif %}
+    </p>
+  </div>
+
+  <div class="row">
+    {% assign pages_list = category[1] %}
+    {% for post in pages_list %}
+    {% if post.title != null %}
+    <div class="col-md-6 col-lg-4 mb-4">{% include postbox.html %}</div>
+    {% endif %}
+    {% endfor %}
+  </div>
+</section>
 {% endfor %}

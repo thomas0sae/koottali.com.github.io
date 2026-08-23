@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Connecting Indians Globally with NRI Meet"
-categories: [nri-meet, dating, india dating, indian dating, nri-meet dating app]
-image: assets/images/nrimeet-post-12.png
+categories: [nri life]
+image: /assets/images/nrimeet-post-12.png
 ---
 
 

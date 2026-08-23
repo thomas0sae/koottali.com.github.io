@@ -1,23 +1,48 @@
 ---
 layout: default
-title: 404
+title: Page not found
 permalink: /404.html
+sitemap: false
+robots: noindex, follow
 ---
+
 <script>
-    (function () {
-        // Referral deep link fallback: /ref/CODE → /ref/?code=CODE so the
-        // Jekyll-rendered landing page at /ref/ can pick up the invite code.
-        var refMatch = window.location.pathname.match(/^\/ref\/([A-Za-z0-9_-]+)\/?$/);
-        if (refMatch) {
-            window.location.replace("/ref/?code=" + encodeURIComponent(refMatch[1]));
-            return;
-        }
-        window.location.href = "/categories";
-    })();
+  (function () {
+    // Referral deep link fallback: /ref/CODE → /ref/?code=CODE so the
+    // Jekyll-rendered landing page at /ref/ can pick up the invite code.
+    var refMatch = window.location.pathname.match(/^\/ref\/([A-Za-z0-9_-]+)\/?$/);
+    if (refMatch) {
+      window.location.replace("/ref/?code=" + encodeURIComponent(refMatch[1]));
+    }
+    // Everything else renders the 404 below. The previous version bounced all
+    // unknown URLs to /categories, which hid genuine broken links and looked
+    // like a soft 404 to search engines.
+  })();
 </script>
 
-<div class="text-center">
-<h1 class="mt-5"><span class="badge badge-dark font-weight-normal">404</span></h1>
-<h1 class="display-1 mt-4 mb-4"> Page not found!</h1>
-<p>Please use the search bar from the bottom left or visit our <a href="{{site.baseurl}}/categories/">Posts Page</a>!</p>
+<div class="col-lg-8 mx-auto text-center" style="padding: 40px 0 60px">
+  <span class="eyebrow">404</span>
+  <h1 style="font-size: clamp(1.9rem, 4vw, 2.8rem); margin-bottom: 16px">
+    We couldn't find that page
+  </h1>
+  <p class="lead" style="margin-bottom: 30px">
+    The link may be out of date, or the page may have moved. Here is where most
+    people are headed.
+  </p>
+
+  <div class="hero__actions" style="justify-content: center">
+    <a class="btn-brand" href="{{ '/download/' | relative_url }}">Get the app</a>
+    <a class="btn-ghost" href="{{ '/' | relative_url }}">Back to home</a>
+  </div>
+
+  <div class="section" style="margin-top: 48px; text-align: left">
+    <div class="section-head" style="margin: 0 auto 24px; text-align: center">
+      <h2 style="font-size: 1.3rem">Latest from the blog</h2>
+    </div>
+    <div class="row">
+      {% for post in site.posts limit: 3 %}
+      <div class="col-md-4 mb-4">{% include postbox.html %}</div>
+      {% endfor %}
+    </div>
+  </div>
 </div>

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Unraveling Emotions: Navigating Between Love and Obsession with NRI Meet India Dating App"
-categories: [nri-meet, dating, india dating, indian dating, nri-meet dating app]
-image: assets/images/hae7.jpg
+categories: [dating advice, relationships]
+image: /assets/images/hae7.jpg
 ---
 
 

@@ -3,32 +3,40 @@ layout: page
 title: Get NRI Meet
 permalink: "/get-koottali/"
 comments: false
+sitemap: false
+robots: noindex, follow
+subtitle: "Taking you to the app store…"
 ---
 
-<head>
-  <title>Redirect to App Store or Play Store</title>
-</head>
+{% comment %}
+  Legacy Koottali-branded store-redirect endpoint, kept so older links and
+  printed QR codes keep working. Same behaviour as /get-nri-meet/.
+{% endcomment %}
 
-<body onload="redirectToStore()">
+<p>
+  If you are not redirected automatically, choose your platform below.
+</p>
 
-  <script>
-    function redirectToStore() {
-      var userAgent = navigator.userAgent || navigator.vendor || window.opera;
+<div class="store-row">
+  <a class="store-btn" href="{{ site.app.ios }}" rel="nofollow noopener">
+    <img src="{{ '/assets/images/app-store.svg' | relative_url }}" width="18" height="18" alt="" />
+    App Store
+  </a>
+  <a class="store-btn" href="{{ site.app.android }}" rel="nofollow noopener">
+    <img src="{{ '/assets/images/google-play.svg' | relative_url }}" width="18" height="18" alt="" />
+    Google Play
+  </a>
+</div>
 
-      if (/iPad|iPhone|iPod/.test(userAgent) && !window.MSStream) {
-        window.location.href =
-          "https://apps.apple.com/us/app/nri-meet-find-meet-marry-nris/id6448742453"; 
-      }
-
-      else if (/android/i.test(userAgent)) {
-        window.location.href =
-          "https://play.google.com/store/apps/details?id=com.koottali.app&hl=en_IN&gl=US";
-      }
-      else {
-        window.location.href = "https://play.google.com/store/apps/details?id=com.koottali.app&hl=en_IN&gl=US"; 
-      }
+<script>
+  (function () {
+    var ua = navigator.userAgent || navigator.vendor || window.opera;
+    var ios = {{ site.app.ios | jsonify }};
+    var android = {{ site.app.android | jsonify }};
+    if (/iPad|iPhone|iPod/.test(ua) && !window.MSStream) {
+      window.location.replace(ios);
+    } else {
+      window.location.replace(android);
     }
-  </script>
-</body>
-
-</html>
+  })();
+</script>

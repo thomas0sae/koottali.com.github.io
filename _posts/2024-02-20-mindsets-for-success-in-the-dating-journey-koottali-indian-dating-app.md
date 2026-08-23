@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "8 Tips for Building a Foundation for Lasting Love: Mindsets for Success in the Dating Journey with NRI Meet India"
-categories: [nri-meet, dating, india dating, indian dating, nri-meet dating app]
-image: assets/images/hae3.jpg
+categories: [dating advice, relationships]
+image: /assets/images/hae3.jpg
 ---
 
 In the realm of best connections, love, and friendships through the NRI Meet Indian Dating App, adopting the right mindsets is key to navigating the long game of dating. In this blog post, let's explore essential perspectives that can pave the way for a successful and fulfilling journey in the world of relationships.

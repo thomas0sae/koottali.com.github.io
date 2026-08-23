@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "The Ultimate First Date Guide: Nine Tips to Navigate Love on NRI Meet India"
-categories: [NRI Meet, dating, india dating, indian dating, NRI Meet dating app]
-image: assets/images/had5.jpg
+categories: [dating advice, meeting people]
+image: /assets/images/had5.jpg
 ---
 
 In the world of best connections, love, dating, friendships, and digital chats through the [NRI Meet Indian Dating App](https://nrimeet.app/download), the first date is an exciting step on your journey to meaningful connections. To ensure your first date is the best experience possible, we've created the ultimate guide to help you navigate this exciting chapter in your dating life.

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "The Power of Shared Stories: Connecting NRIs Across Borders"
-categories: [nri-meet, dating, india dating, indian dating, nri-meet dating app]
-image: assets/images/nrimeet-post-6.png
+categories: [nri life]
+image: /assets/images/nrimeet-post-6.png
 ---
 
 

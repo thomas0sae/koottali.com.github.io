@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Connecting NRIs: How NRI Meet Helps You Build Meaningful Relationships Across Borders"
-categories: [nri-meet, dating, india dating, indian dating, nri-meet dating app]
-image: assets/images/nrimeet-post-2.png
+categories: [nri life]
+image: /assets/images/nrimeet-post-2.png
 ---
 
 

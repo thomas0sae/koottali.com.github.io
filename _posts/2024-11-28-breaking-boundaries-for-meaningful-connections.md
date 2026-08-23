@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "NRI Meet: Breaking Boundaries for Meaningful Connections"
-categories: [nri-meet, dating, india dating, indian dating, nri-meet dating app]
-image: assets/images/nrimeet-post-9.png
+categories: [nri life]
+image: /assets/images/nrimeet-post-9.png
 ---
 
 

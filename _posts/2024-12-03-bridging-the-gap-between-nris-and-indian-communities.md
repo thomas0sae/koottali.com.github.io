@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Bridging the Gap Between NRIs and Indian Communities"
-categories: [nri-meet, dating, india dating, indian dating, nri-meet dating app]
-image: assets/images/nrimeet-post-11.png
+categories: [nri life]
+image: /assets/images/nrimeet-post-11.png
 ---
 
 

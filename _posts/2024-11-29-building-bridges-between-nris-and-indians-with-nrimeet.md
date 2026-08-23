@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Building Bridges Between NRIs and Indians with NRI Meet"
-categories: [nri-meet, dating, india dating, indian dating, nri-meet dating app]
-image: assets/images/nrimeet-post-10.png
+categories: [nri life]
+image: /assets/images/nrimeet-post-10.png
 ---
 
 

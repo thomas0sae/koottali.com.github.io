@@ -1,0 +1,16 @@
+---
+permalink: /robots.txt
+layout: null
+sitemap: false
+---
+User-agent: *
+Allow: /
+
+{% comment %}
+  The store-redirect endpoints (/get-nri-meet/, /get-koottali/, /ref/) are kept
+  crawlable on purpose and carry a `noindex` meta tag instead. Disallowing them
+  here would stop crawlers from ever reading that tag, which is what actually
+  keeps them out of the index.
+{% endcomment %}
+
+Sitemap: {{ '/sitemap.xml' | absolute_url }}

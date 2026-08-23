@@ -1,31 +1,93 @@
 ---
 layout: page
-title: About
+title: About NRI Meet
 permalink: "/about/"
-image: assets/images/smallbanner.jpg
+image: /assets/images/smallbanner.jpg
+subtitle: "A dating app for Indian and NRI singles who want to meet someone who already understands where they come from."
+description: >-
+  NRI Meet is a free Indian dating app connecting NRI and Indian singles
+  worldwide. Learn how matching, verification and chat work, and who the app
+  is for.
+faq:
+  - q: "Is NRI Meet free?"
+    a: "Yes. Signing up, building a profile, browsing and matching are all free. An optional premium upgrade raises daily limits and shows you everyone who has liked you."
+  - q: "Who is NRI Meet for?"
+    a: "Indian and NRI singles anywhere in the world who want to meet someone from a similar cultural background, whether they are looking for a relationship or for marriage."
+  - q: "Is NRI Meet a matrimony site or a dating app?"
+    a: "It is a dating app, but many members are looking for a long-term relationship or marriage. You can state what you are looking for on your profile so that expectations are clear from the start."
+  - q: "Which platforms is the app available on?"
+    a: "NRI Meet is available for both iPhone on the App Store and Android on Google Play."
+  - q: "How do I delete my account?"
+    a: "You can request deletion of your account and associated data at any time using the account deletion form on this site."
 ---
 
-#### Welcome to NRI Meet. NRI Meet is the ultimate dating app designed exclusively for the vibrant Indian community. NRI Meet helps unite hearts, connect minds, and foster meaningful relationships; all under one secure and welcoming roof. NRI Meet is free to download and use, and is available in both IOS and Android platforms.
+Moving away from India — or growing up between two cultures — changes what you
+are looking for in a partner. You want someone you do not have to explain
+yourself to. Someone who knows why the family call happens every Sunday, what
+the festival calendar means, and why "where are you from?" is never a
+one-sentence answer.
 
+NRI Meet is built for exactly that. It is a free dating app for Indian and NRI
+singles around the world, and it starts from common ground instead of asking you
+to build it from scratch.
 
-NRI Meet isn't just a dating app; NRI Meet is secure platform where like-minded Indian singles can come together and discover each other. NRI Meet boasts dating App groups that celebrate your passions and interests. Indian dating app NRI Meet, can help you spark conversations that could lead to lifelong connections and to matrimony.
+## How NRI Meet works
 
-NRI Meet helps you express yourself authentically through posts that showcase your personality. Share your thoughts with India Singles, life experiences, and words that resonate with other Indian singles across the world. Your journey to love and later to matrimony start with heartfelt chats in our free Indian NRI Meet dating app. NRI Meet.com ranks among one of the best dating websites in India.
+### Matching on things that actually matter
 
-Sometimes, people struggle to break the ice and start a conversation. NRI Meet helps you effortlessly break the ice using our real-time chat feature. Engage in conversations that align your interests and values, laying the foundation for ever lasting relationships.
+Rather than showing you everyone within a few kilometres, NRI Meet lets you set
+preferences that reflect how people in the diaspora actually meet: age range,
+the city or country you want to search, languages you speak, and the interests
+you would want to share with someone. Profiles that fit those preferences are
+the ones you see first.
 
-Indian Dating App NRI Meet is the popular dating app in India, and the advanced algorithms in NRI Meet Dating App helps find matches that align with your preferences, leading to truly memorable moments in dating. Whether it's love or matrimony you're seeking, NRI Meet has the tools and features to make it happen.
+### Profiles you can trust
 
-Your photos and interests are your story – they are your way of attracting potential matches for both meaningful connections and life long companionship. Upload good photos to your profile, adjust your dating partner and friend preferences and cruise your way into good communication that leads to longstanding relationships.
+Photos are checked, and every member can block or report someone. Chat opens
+only after you have both matched, which means no unsolicited messages sitting in
+your inbox. It is a smaller, calmer experience than an open-inbox app, and it is
+designed that way on purpose.
 
-NRI Meet is a secure dating app. It ensures a secure space for you to explore, connect, and engage with other Indian singles. Focus on building genuine relationships in an environment that values your privacy and safety. Whether you're in Kerala or around the world, NRI Meet unites the Indian community with love and matrimony in mind.
+### Built for distance
 
+Plenty of connections here start several time zones apart. You can search your
+own city if you want to meet locally, or open your preferences up worldwide.
+Long-distance is a normal starting point on NRI Meet rather than an awkward
+exception.
 
-Download free Indian Dating App Today! Lose yourself to a better dating experience with NRI Meet today itself! Let your dating journey begin today which will be filled with potential matches, engaging conversations, and the possibility of love and matrimony. Join the community that not only understands your Indian identity, but also provides a modern platform to meet new people, make friends, and find companionship that lasts a lifetime.
+## Who uses NRI Meet
 
-Download free Indian Dating App: NRI Meet, from these platforms today!
+Members range from people who moved abroad recently for work or study, to
+second-generation members who grew up outside India, to people still in India
+who are open to meeting someone overseas. What they tend to share is wanting a
+partner who understands the cultural context without a translation layer.
 
-[NRI Meet Android app](https://play.google.com/store/apps/details?id=com.koottali.app)
-[NRI Meet IOS app](https://apps.apple.com/us/app/nri-meet-find-meet-marry-nris/id6448742453)
+Some members are dating casually. Many are looking for a long-term relationship
+or marriage. Saying which one you are on your profile saves everyone time, and
+the app gives you room to be clear about it.
 
-#indiadatingapp #nrimeet #dating #datingapp #india #indian #indiandatingapp #bharath #bharatapp #desidating #datingadvice #love #matchmaking #indianlove #ishq #southasianlove #northindianlove #southindianlove #datingtips #marriagegoals #desimatchmaker #indianwedding #onlinedating
+## Safety and privacy
+
+Dating apps only work if people feel safe on them. NRI Meet uses photo
+verification, and gives you blocking and reporting tools that work immediately.
+We keep a zero-tolerance policy on content that exploits or endangers
+children — see our [child safety standards]({{ '/child-safety/' | relative_url }})
+for the detail.
+
+You control your data. Our [privacy policy]({{ '/privacy-policy/' | relative_url }})
+sets out what we collect and why, and you can
+[request deletion of your account]({{ '/accounts-data-deletion/' | relative_url }})
+at any time.
+
+If you are new to online dating, our guide to
+[staying safe while dating online]({{ '/online-dating-safety-tips-for-indian-singles/' | relative_url }})
+is a good place to start.
+
+## Get started
+
+NRI Meet is free to download on both iOS and Android. Building a profile takes a
+few minutes: add some real photos, say where you are from and where you live
+now, set your preferences, and start matching.
+
+[Download NRI Meet]({{ '/download/' | relative_url }}) — or read our
+[dating guides]({{ '/categories/' | relative_url }}) first.

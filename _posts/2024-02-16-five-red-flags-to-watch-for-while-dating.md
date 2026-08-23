@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "5 Crucial Red Flags to Watch for While Dating"
-categories: [nri-meet, dating, indian dating, NRI Meet india dating app]
-image: assets/images/ha1.jpg
+categories: [dating advice, safety]
+image: /assets/images/ha1.jpg
 ---
 
 Dating can be an exhilarating journey full of potential, but it's important to approach it with a discerning eye. While everyone deserves a fair chance, there are certain red flags that shouldn't be ignored. These warning signs can help you avoid unnecessary heartache and protect your emotional well-being. Here are five critical red flags to be aware of when you're in the early stages of dating.

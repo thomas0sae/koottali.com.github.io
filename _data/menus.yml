@@ -3,37 +3,43 @@ topmenu:
   - title: Home
     url: ""
 
+  - title: Blog
+    url: "categories/"
+
   - title: About
     url: "about/"
 
   - title: Contact
     url: "contact/"
 
-# - title: Get this theme
-#   url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
-#   class: "ml-2 btn btn-dark text-white px-3"
-#   external: true
-
 # Footer Menu
 footermenu:
   - title: Home
     url: ""
 
+  - title: Blog
+    url: "categories/"
+
+  - title: About
+    url: "about/"
+
+  - title: Download
+    url: "download/"
+
   - title: Privacy Policy
     url: "privacy-policy/"
-
-  - title: EULA
-    url: "EULA/"
 
   - title: Terms and Conditions
     url: "tnc/"
 
+  - title: EULA
+    url: "EULA/"
+
+  - title: Child Safety
+    url: "child-safety/"
+
   - title: Contact
     url: "contact/"
 
-  - title: Feedback
+  - title: Delete My Data
     url: "accounts-data-deletion/"
-
-  # - title: Download
-  #   url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
-  #   external: true

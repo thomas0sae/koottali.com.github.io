@@ -8,8 +8,10 @@ $blue: #3d61fd !default;
 
 @import "bootstrap/bootstrap";
 
-@import url("https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&display=swap");
+// PT Sans / PT Serif used to be pulled in here with CSS @import, which is
+// render-blocking and serialised behind this stylesheet. The site now uses
+// Poppins + Inter, loaded from a <link> with preconnect in _layouts/default.html.
+// The PT font-family declarations below are harmless: custom.css overrides them.
 
 /* add additional CSS rules below */
 html {
@@ -708,6 +710,6 @@ span.navigation:before {
 }
 
 .hover-opacity:hover {
-  transition: all.3s;
+  transition: all 0.3s;
   opacity: 0.8;
 }

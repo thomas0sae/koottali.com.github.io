@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "How NRI Meet Bridges the Gap Between Cultures and Relationships"
-categories: [nri-meet, dating, india dating, indian dating, nri-meet dating app]
-image: assets/images/nrimeet-post-7.png
+categories: [nri life]
+image: /assets/images/nrimeet-post-7.png
 ---
 
 

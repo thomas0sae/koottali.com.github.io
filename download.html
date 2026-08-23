@@ -1,34 +1,142 @@
 ---
-layout: page
-title: Get NRI Meet
+layout: default
+title: "Download NRI Meet — Free Indian Dating App for iOS &amp; Android"
 permalink: "/download/"
+description: >-
+  Download NRI Meet free on iOS and Android. An Indian dating app for NRI and
+  Indian singles worldwide, with verified profiles and matching on language,
+  city and interests.
+image: /assets/images/smallbanner.jpg
 comments: false
+faq:
+  - q: "Is NRI Meet free to use?"
+    a: "Yes. Creating a profile, browsing matches and matching with people is free on both iOS and Android. An optional premium upgrade raises daily limits and lets you see everyone who liked you."
+  - q: "Which countries is NRI Meet for?"
+    a: "NRI Meet is built for Indian and NRI singles anywhere in the world. You can search within your own city or open your preferences up globally."
+  - q: "Do I need a Facebook account to sign up?"
+    a: "No. You can sign up with your email address, or with Google or Apple sign-in. There is no Facebook requirement."
+  - q: "Can I use NRI Meet to look for marriage rather than casual dating?"
+    a: "Yes. Many members are looking for a long-term relationship or marriage, and you can say what you are looking for on your profile so expectations are clear early."
+  - q: "How does NRI Meet keep profiles genuine?"
+    a: "Profiles are photo-checked, and members can block and report anyone. Chat only opens after both people have matched, so you do not receive unsolicited messages."
 ---
 
-<head>
-  <title>Redirect to App Store or Play Store</title>
-</head>
+<div class="col-lg-10 mx-auto">
+  <section class="hero rounded" aria-labelledby="dl-heading">
+    <div class="row align-items-center justify-content-between">
+      <div class="col-lg-7">
+        <span class="eyebrow">Free download</span>
+        <h1 id="dl-heading">Get NRI Meet on iOS and Android</h1>
+        <p class="lead">
+          Join Indian and NRI singles meeting across the world. Free to
+          download, quick to set up, and built around the things you would
+          otherwise have to explain.
+        </p>
 
-<body onload="redirectToStore()">
+        <div class="store-row">
+          <a class="store-btn" href="{{ site.app.ios }}" target="_blank" rel="noopener">
+            <img src="{{ '/assets/images/app-store.svg' | relative_url }}" width="18" height="18" alt="" />
+            Download on the App Store
+          </a>
+          <a class="store-btn" href="{{ site.app.android }}" target="_blank" rel="noopener">
+            <img src="{{ '/assets/images/google-play.svg' | relative_url }}" width="18" height="18" alt="" />
+            Get it on Google Play
+          </a>
+        </div>
+      </div>
 
-  <script>
-    function redirectToStore() {
-      var userAgent = navigator.userAgent || navigator.vendor || window.opera;
+      <div class="col-lg-5 text-right pl-0 pl-lg-4 d-none d-lg-block">
+        <img
+          class="intro"
+          width="502"
+          height="388"
+          src="{{ '/assets/images/3.svg' | relative_url }}"
+          alt="Illustration of two people matching on the NRI Meet app"
+        />
+      </div>
+    </div>
+  </section>
 
-      if (/iPad|iPhone|iPod/.test(userAgent) && !window.MSStream) {
-        window.location.href =
-          "https://apps.apple.com/us/app/nri-meet-find-meet-marry-nris/id6448742453"; 
-      }
+  <section class="section" aria-labelledby="dl-what">
+    <div class="section-head">
+      <h2 id="dl-what">What you get</h2>
+    </div>
+    <div class="feature-grid">
+      <div class="feature-card">
+        <h3>Matching that starts with context</h3>
+        <p>
+          Set preferences for age, location, language and home state. NRI Meet
+          surfaces people you actually have common ground with instead of
+          everyone within five kilometres.
+        </p>
+      </div>
+      <div class="feature-card">
+        <h3>Verified profiles</h3>
+        <p>
+          Photos are checked and every member can block or report. The goal is a
+          community where you are talking to who you think you are talking to.
+        </p>
+      </div>
+      <div class="feature-card">
+        <h3>Mutual-match chat</h3>
+        <p>
+          Conversations open only when you both say yes, so your inbox stays
+          small and worth opening.
+        </p>
+      </div>
+      <div class="feature-card">
+        <h3>Made for distance</h3>
+        <p>
+          Search your city or the whole world. Long-distance is a normal
+          starting point here, not an edge case.
+        </p>
+      </div>
+    </div>
+  </section>
 
-      else if (/android/i.test(userAgent)) {
-        window.location.href =
-          "https://play.google.com/store/apps/details?id=com.koottali.app&hl=en_IN&gl=US";
-      }
-      else {
-        window.location.href = "https://play.google.com/store/apps/details?id=com.koottali.app&hl=en_IN&gl=US"; 
-      }
-    }
-  </script>
-</body>
+  <section class="section" aria-labelledby="dl-steps">
+    <div class="section-head">
+      <h2 id="dl-steps">Getting started takes a few minutes</h2>
+    </div>
+    <div class="step-grid">
+      <div class="step">
+        <span class="step__num">1</span>
+        <h3>Install the app</h3>
+        <p>Download from the App Store or Google Play using the links above.</p>
+      </div>
+      <div class="step">
+        <span class="step__num">2</span>
+        <h3>Sign up and build your profile</h3>
+        <p>
+          Use email, Google or Apple sign-in. Add a few real photos and your
+          languages, home state and interests.
+        </p>
+      </div>
+      <div class="step">
+        <span class="step__num">3</span>
+        <h3>Set preferences and start matching</h3>
+        <p>
+          Choose who you want to meet and where. When you match, chat opens.
+        </p>
+      </div>
+    </div>
+  </section>
 
-</html>
+  <div class="article-post">
+    <h2 id="faq">Frequently asked questions</h2>
+    <div class="faq-list">
+      {% for item in page.faq %}
+      <div class="faq-item">
+        <h3>{{ item.q }}</h3>
+        <p>{{ item.a }}</p>
+      </div>
+      {% endfor %}
+    </div>
+
+    <p>
+      Want to know more about who NRI Meet is for before you install? Read
+      <a href="{{ '/about/' | relative_url }}">about NRI Meet</a>, or browse our
+      <a href="{{ '/categories/' | relative_url }}">dating guides and advice</a>.
+    </p>
+  </div>
+</div>
