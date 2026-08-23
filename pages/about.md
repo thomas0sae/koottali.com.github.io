@@ -21,9 +21,9 @@ Your photos and interests are your story – they are your way of attracting pot
 NRI Meet is a secure dating app. It ensures a secure space for you to explore, connect, and engage with other Indian singles. Focus on building genuine relationships in an environment that values your privacy and safety. Whether you're in Kerala or around the world, NRI Meet unites the Inddian community with love and matrimony in mind.
 
 
-Download free Indian Dating App Today! Lose yourself to a better dating experience with NRI Meet today itself! Let your dating journey begin today which will be filled with potential matches, engaging conversations, and the possibility of love and matrimony. Join the community that not only understands your Malayali identity, but also provides a modern platform to meet new people, make friends, and find companionship that lasts a lifetime.
+Download free Indian Dating App Today! Lose yourself to a better dating experience with NRI Meet today itself! Let your dating journey begin today which will be filled with potential matches, engaging conversations, and the possibility of love and matrimony. Join the community that not only understands your Indian identity, but also provides a modern platform to meet new people, make friends, and find companionship that lasts a lifetime.
 
-Download free Indian Malayali Dating App from these platforms today!
+Download free Indian Dating App: NRI Meet, from these platforms today!
 
 [NRI Meet Android app](https://play.google.com/store/apps/details?id=com.koottali.app)
 [NRI Meet IOS app](https://apps.apple.com/us/app/nri-meet-find-meet-marry-nris/id6448742453)
