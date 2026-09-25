@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About NRI Meet
+title: "About Our Indian Dating App"
 permalink: "/about/"
 image: /assets/images/smallbanner.jpg
 subtitle: "A dating app for Indian and NRI singles who want to meet someone who already understands where they come from."

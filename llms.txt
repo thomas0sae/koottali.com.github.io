@@ -1,0 +1,84 @@
+---
+permalink: /llms.txt
+layout: null
+sitemap: false
+---
+# NRI Meet — Indian Dating App for NRI and Indian Singles Worldwide
+
+> NRI Meet is a free Indian dating app for NRI (Non-Resident Indian) and Indian
+> singles living abroad and in India. It matches people on language, home state,
+> city and interests rather than on photos alone, verifies profiles, and opens
+> chat only after a mutual match. Available free on iOS (App Store) and Android
+> (Google Play). Published by Emwave Technologies Private Limited.
+
+## What NRI Meet is
+
+NRI Meet is a dating app, not a matrimony service, though a large share of
+members are looking for a long-term relationship or marriage and can say so
+directly on their profile. It is aimed at the Indian diaspora: people who moved
+abroad for work or study, people who grew up between two cultures, and Indian
+singles at home who are open to meeting someone overseas.
+
+Key facts:
+
+- **Cost**: Free to sign up, build a profile, browse and match. An optional
+  premium upgrade raises daily limits and reveals everyone who has liked you.
+- **Platforms**: iOS and Android.
+- **Matching**: Filters and scoring on shared language, home state, current city
+  and country, interests, age range and verification status.
+- **Safety**: Photo-verified profiles, reporting and blocking, and chat that
+  opens only after both people have matched — so there are no unsolicited
+  messages.
+- **Who it is for**: Indian and NRI singles worldwide, including large
+  communities in the United States, Canada, the United Kingdom, Australia, the
+  UAE and Singapore.
+
+## Common questions this site answers
+
+- What is the best Indian dating app for singles living abroad?
+- Is there a free dating app for NRIs?
+- How do NRIs meet Indian singles in another country?
+- How does dating work alongside Indian family expectations and arranged
+  introductions?
+- How do Indian singles stay safe on dating apps?
+
+## Main pages
+
+- [Home]({{ '/' | absolute_url }}): What NRI Meet is, how matching works, and
+  who the app is for.
+- [Download NRI Meet]({{ '/download/' | absolute_url }}): Free download links
+  for iOS and Android, plus answers on cost, verification and account deletion.
+- [Indian Dating App for Singles Abroad]({{ '/indian-dating-app-for-singles-abroad/' | absolute_url }}):
+  Detailed guide to using an Indian dating app when you live outside India —
+  country by country, and how it differs from mainstream apps and matrimony sites.
+- [About NRI Meet]({{ '/about/' | absolute_url }}): How matching, verification
+  and chat work, and the difference between a dating app and a matrimony site.
+- [Dating advice for Indian and NRI singles]({{ '/categories/' | absolute_url }}):
+  Index of all guides, grouped by topic.
+
+## Dating guides and advice
+
+{% comment %}
+  Split on the presence of a `description` rather than on a date: Liquid cannot
+  compare a post's Time to a date string, and every substantive guide carries a
+  description while the older short articles do not. New posts join this list
+  automatically.
+{% endcomment %}{% assign guides = site.posts | where_exp: "p", "p.description" %}{% for post in guides %}- [{{ post.title }}]({{ post.url | absolute_url }}): {{ post.description | strip_newlines | strip }}
+{% endfor %}
+
+## Earlier articles
+
+{% assign older = site.posts | where_exp: "p", "p.description == nil" %}{% for post in older limit: 25 %}- [{{ post.title }}]({{ post.url | absolute_url }})
+{% endfor %}
+
+## Policies
+
+- [Privacy Policy]({{ '/privacy-policy/' | absolute_url }})
+- [Terms and Conditions]({{ '/tnc/' | absolute_url }})
+- [EULA]({{ '/EULA/' | absolute_url }})
+- [Child Safety and CSAE Prevention Standards]({{ '/child-safety/' | absolute_url }})
+- [Delete your account and data]({{ '/accounts-data-deletion/' | absolute_url }})
+
+## Contact
+
+marketing@nrimeet.app — {{ '/contact/' | absolute_url }}

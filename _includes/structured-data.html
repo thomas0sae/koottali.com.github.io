@@ -10,6 +10,8 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": {{ site.title | jsonify }},
+  "alternateName": ["NRI Meet App", "Indian Dating App"],
+  "description": {{ site.description | strip_newlines | jsonify }},
   "url": {{ site.url | append: '/' | jsonify }},
   "logo": {{ '/' | append: site.logo | absolute_url | jsonify }},
   "email": {{ site.email | jsonify }},
@@ -33,6 +35,28 @@
   "description": {{ site.description | strip_newlines | jsonify }},
   "url": {{ site.url | append: '/' | jsonify }},
   "image": {{ '/' | append: site.image | absolute_url | jsonify }},
+  "inLanguage": "en",
+  "applicationSubCategory": "Dating",
+  "featureList": [
+    "Match on shared language, home state, city and interests",
+    "Photo-verified profiles",
+    "Chat opens only after a mutual match",
+    "Search your own city, your country, or worldwide",
+    "Free to sign up, browse and match"
+  ],
+  "audience": {
+    "@type": "Audience",
+    "audienceType": "NRI and Indian singles worldwide",
+    "geographicArea": [
+      { "@type": "Country", "name": "United States" },
+      { "@type": "Country", "name": "Canada" },
+      { "@type": "Country", "name": "United Kingdom" },
+      { "@type": "Country", "name": "Australia" },
+      { "@type": "Country", "name": "United Arab Emirates" },
+      { "@type": "Country", "name": "Singapore" },
+      { "@type": "Country", "name": "India" }
+    ]
+  },
   "installUrl": [
     {{ site.app.ios | jsonify }},
     {{ site.app.android | jsonify }}
@@ -85,7 +109,24 @@
 </script>
 {% endif %}
 
+{% comment %}
+  FAQPage is emitted only where the questions are actually rendered on the
+  page. index.html is paginated, so /page2/ and beyond inherit `page.faq`
+  from the same file while showing no FAQ markup — emitting schema there
+  would be structured data that does not match visible content.
+{% endcomment %}
+{% comment %}
+  `paginator` is not reachable from inside an include, so the paginated pages
+  are identified by URL instead: jekyll-paginate emits /page2/, /page3/ and so
+  on, and no real permalink on this site begins with "/page".
+{% endcomment %}
+{% assign url_head = page.url | slice: 0, 5 %}
+{% assign render_faq = false %}
 {% if page.faq %}
+  {% assign render_faq = true %}
+  {% if url_head == "/page" %}{% assign render_faq = false %}{% endif %}
+{% endif %}
+{% if render_faq %}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

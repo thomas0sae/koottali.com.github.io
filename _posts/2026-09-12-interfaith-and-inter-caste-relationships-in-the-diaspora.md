@@ -3,7 +3,7 @@ layout: post
 title: "Interfaith and Inter-Caste Relationships: Making It Work in the Diaspora"
 description: >-
   The conversations to have early, how to handle family resistance, and the
-  practical decisions — weddings, festivals, children — that interfaith and
+  practical decisions - weddings, festivals, children - that interfaith and
   inter-caste couples have to make.
 categories: [dating advice, family]
 image: /assets/images/hab5.jpg
@@ -25,7 +25,7 @@ family networks, and the social machinery that used to keep these boundaries
 intact simply is not there.
 
 That does not mean these relationships are easy. It means the difficulty has
-moved — from whether you can meet someone outside your background to how the two
+moved - from whether you can meet someone outside your background to how the two
 of you handle everything that follows.
 
 ## Have the real conversations early
@@ -74,7 +74,7 @@ you are broadly in the same territory.
 
 Caste behaves differently from religion in these conversations. It is rarely
 raised directly, it carries a great deal of history, and it tends to appear as
-something else — concern about "background", "values", or "what people will
+something else - concern about "background", "values", or "what people will
 say".
 
 Among younger people in the diaspora it has lost much of its force, and many
@@ -115,8 +115,8 @@ than any single decisive conversation. Our guide to
 [talking to Indian parents about dating]({{ '/talking-to-indian-parents-about-dating/' | relative_url }})
 goes through how to structure those conversations.
 
-**Find the ally.** There is usually one relative — a sibling, an aunt, a cousin
-who did something similar — who can carry the argument inside the family in a
+**Find the ally.** There is usually one relative - a sibling, an aunt, a cousin
+who did something similar - who can carry the argument inside the family in a
 way you cannot.
 
 ### The two of you first
@@ -136,7 +136,7 @@ Sometimes it does not. A family refuses, and stays refused.
 
 At that point you are not solving a problem, you are choosing between two things
 you want, and it deserves to be named honestly rather than deferred for years.
-Some couples marry and wait — and a fair number of families come round after a
+Some couples marry and wait - and a fair number of families come round after a
 marriage, or after a grandchild, in a way they swore they would not. Some
 couples do not survive it. Both happen.
 
@@ -147,7 +147,7 @@ that was never going to arrive, with the decision never actually made.
 
 The couples who do this well tend to share a few habits.
 
-They treat both traditions as additions rather than a competition — two sets of
+They treat both traditions as additions rather than a competition - two sets of
 festivals, more food, more people, rather than a zero-sum allocation. They agree
 on the approach to children well before there are any. They protect each other
 from their own families rather than expecting the other person to absorb it.
@@ -160,9 +160,9 @@ minimised. They are the ones where it was decided about.
 
 ## Meeting people
 
-If you are open about background but clear about other things — that you want
+If you are open about background but clear about other things - that you want
 something serious, that you want to be able to speak Malayalam at home, that you
-are looking for someone who understands the diaspora part — an app lets you be
+are looking for someone who understands the diaspora part - an app lets you be
 specific on exactly those points.
 
 [NRI Meet]({{ '/download/' | relative_url }}) is free on iOS and Android, and
@@ -172,7 +172,7 @@ else open. You choose what matters and what does not.
 ## The short version
 
 Talk about practice rather than identity, and do it early. Decide the concrete
-things — wedding, children, festivals, conversion — between the two of you
+things - wedding, children, festivals, conversion - between the two of you
 before anyone else is involved. Introduce a person rather than a category, give
 families time, and stay consistent. And if it genuinely will not resolve, make
 the decision rather than living inside it.

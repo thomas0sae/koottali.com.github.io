@@ -2,23 +2,23 @@
 layout: post
 title: "Arranged Marriage vs Dating: Finding the Middle Ground as an NRI"
 description: >-
-  Most NRI singles are not choosing between arranged marriage and dating — they
+  Most NRI singles are not choosing between arranged marriage and dating - they
   are combining both. How the middle ground works and how to make it work well.
 categories: [dating advice, marriage]
 image: /assets/images/haa1.jpg
 faq:
   - q: "Is arranged marriage still common among NRIs?"
-    a: "Arranged introductions remain common, but the format has shifted. Families increasingly suggest and introduce while the couple decides, often after months of getting to know each other independently — closer to an introduction than an arrangement."
+    a: "Arranged introductions remain common, but the format has shifted. Families increasingly suggest and introduce while the couple decides, often after months of getting to know each other independently - closer to an introduction than an arrangement."
   - q: "What is the difference between an arranged marriage and an arranged introduction?"
     a: "In an arranged introduction, the family suggests the match and the couple then decides freely, with time and privacy to get to know each other. The introduction is arranged; the marriage is chosen."
   - q: "Can I use a dating app and still involve my family?"
-    a: "Yes, and many people do. Meeting independently and introducing a partner to your family later is not in conflict with wanting family involvement — it changes the order, not the outcome."
+    a: "Yes, and many people do. Meeting independently and introducing a partner to your family later is not in conflict with wanting family involvement - it changes the order, not the outcome."
   - q: "How long should you know someone before agreeing to marry?"
     a: "There is no correct number, but give yourself long enough to have seen the person under stress, in disagreement, and around their family. For most couples that means months rather than weeks."
 ---
 
-The way this is usually framed — arranged marriage on one side, dating on the
-other, pick a team — does not describe how most Indian and NRI singles actually
+The way this is usually framed - arranged marriage on one side, dating on the
+other, pick a team - does not describe how most Indian and NRI singles actually
 live.
 
 In practice the two have been converging for a while, and what most people are
@@ -32,8 +32,8 @@ contact beforehand. That still exists in places, but it is no longer the norm
 across most of the diaspora.
 
 What is far more common now is the **arranged introduction**. Families or the
-wider community suggest a match. The couple then talks — often for months, often
-across continents, largely unsupervised — and decides for themselves. The
+wider community suggest a match. The couple then talks - often for months, often
+across continents, largely unsupervised - and decides for themselves. The
 introduction is arranged. The marriage is chosen.
 
 Meanwhile the dating side has moved too. A lot of people meeting independently
@@ -48,7 +48,7 @@ are somewhere on that spectrum rather than at either end.
 It is worth being fair to both, because each solves a real problem.
 
 **The arranged route is good at**: a filtered pool where basic compatibility on
-background, values and life stage is already established; a reference — someone
+background, values and life stage is already established; a reference - someone
 vouches for the family, which is genuinely useful information; momentum, because
 the process moves with intent rather than drifting; and family support already in
 place from day one.
@@ -78,7 +78,7 @@ Doing this before you are in the middle of a specific situation is far easier th
 doing it under pressure. It also lets you answer clearly when a family member
 pushes, because you have already worked out where the line is.
 
-### Let your family introduce — on your terms
+### Let your family introduce - on your terms
 
 Accepting introductions costs you very little if you set the terms up front:
 
@@ -96,8 +96,8 @@ Meeting someone independently is not a rejection of family involvement. It chang
 the order: you find the person, then bring your families in, rather than the
 reverse.
 
-An app aimed at the diaspora narrows the pool in the way the arranged route does —
-on language, home state, background — while leaving the choosing to you.
+An app aimed at the diaspora narrows the pool in the way the arranged route does -
+on language, home state, background - while leaving the choosing to you.
 [NRI Meet]({{ '/download/' | relative_url }}) is built around that: filter on the
 things your family would filter on, then decide for yourself.
 
@@ -121,7 +121,7 @@ works, and it is better to ask them before an engagement than after:
 
 - Where will we live, and whose career moves?
 - What happens with elderly parents on both sides?
-- Children — whether, when, and how they will be raised religiously
+- Children - whether, when, and how they will be raised religiously
 - Money: shared or separate, who supports whom, obligations to family in India
 - How much involvement do we each expect from our parents in daily life?
 - Whose festivals, whose language, whose food, in what proportion?
@@ -139,8 +139,8 @@ If the disagreement is about a specific person, our guide to
 [talking to Indian parents about who you are dating]({{ '/talking-to-indian-parents-about-dating/' | relative_url }})
 goes through that conversation.
 
-If it is about the process itself — you want time, they want a decision by
-Diwali — a few things help. Name the pressure explicitly rather than absorbing it.
+If it is about the process itself - you want time, they want a decision by
+Diwali - a few things help. Name the pressure explicitly rather than absorbing it.
 Offer a concrete alternative instead of only refusing, since "I'll meet people,
 but I decide on my own timeline" is much easier to accept than "stop asking."
 And expect to repeat yourself. Position change in families is slow and comes from
@@ -156,5 +156,5 @@ families brought in before it is settled, and the decision their own.
 
 If you want to widen the pool while keeping the common ground that makes these
 conversations easier, [NRI Meet]({{ '/download/' | relative_url }}) is free on
-iOS and Android — and you can say plainly on your profile that you are looking
+iOS and Android - and you can say plainly on your profile that you are looking
 for something serious.

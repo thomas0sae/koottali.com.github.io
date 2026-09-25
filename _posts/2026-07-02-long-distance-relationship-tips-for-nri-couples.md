@@ -3,7 +3,7 @@ layout: post
 title: "Long-Distance Relationship Tips for NRI Couples"
 description: >-
   How NRI couples make long-distance work across time zones, visas and family
-  expectations — from communication rhythms to planning the end of the distance.
+  expectations - from communication rhythms to planning the end of the distance.
 categories: [dating advice, long distance]
 image: /assets/images/hab3.jpg
 faq:
@@ -14,7 +14,7 @@ faq:
   - q: "Should we tell our families we are in a long-distance relationship?"
     a: "At some point, yes, and it is usually better to do it before the relationship becomes serious enough that a surprise feels like concealment. Agree together on the timing and on who tells whom first."
   - q: "How do you handle a big time-zone difference?"
-    a: "Alternate the inconvenience rather than letting one person always take the awkward hour, and use asynchronous contact — voice notes, photos, messages — to carry the relationship between live calls."
+    a: "Alternate the inconvenience rather than letting one person always take the awkward hour, and use asynchronous contact - voice notes, photos, messages - to carry the relationship between live calls."
 ---
 
 Distance is normal in diaspora relationships. Work visas, family obligations,
@@ -33,7 +33,7 @@ unsustainable alongside jobs and family, and the drop-off that follows feels lik
 the relationship cooling even when it is not.
 
 A rhythm that holds up over years usually looks like a short predictable daily
-check-in — fifteen minutes, at a time you both know — plus one longer,
+check-in - fifteen minutes, at a time you both know - plus one longer,
 unhurried call a week where neither of you is watching the clock.
 
 The predictability is the active ingredient. Knowing when you will next speak
@@ -53,7 +53,7 @@ message.
 
 The instinct on a scheduled call is to report the interesting parts of the week.
 But couples who live together are bonded largely by the unremarkable
-stuff — what went wrong at work, what you are cooking, the irritating neighbour.
+stuff - what went wrong at work, what you are cooking, the irritating neighbour.
 
 Deliberately including the boring material is one of the most effective things
 long-distance couples do. It keeps you part of each other's daily texture rather
@@ -69,13 +69,13 @@ who takes the awkward hour, and say out loud that you are doing it.
 This is the one that determines outcomes.
 
 Long-distance relationships with a shared, specific plan for closing the gap tend
-to survive. Ones without a plan tend to end — not dramatically, but through
+to survive. Ones without a plan tend to end - not dramatically, but through
 gradual erosion, because there is nothing for the effort to be in service of.
 
 The plan does not need to be certain. It needs to be concrete enough to act on:
 
 - Which of you is likely to move, and roughly when
-- What has to be true first — a visa category, a job offer, a degree finished, a
+- What has to be true first - a visa category, a job offer, a degree finished, a
   savings target
 - What the next checkpoint is, and when you will revisit it
 
@@ -167,6 +167,6 @@ believe in, and enough ordinary life shared between the calls. It fails when the
 effort has no destination.
 
 If you are meeting someone new across a distance,
-[NRI Meet]({{ '/download/' | relative_url }}) is built for exactly that — you can
+[NRI Meet]({{ '/download/' | relative_url }}) is built for exactly that - you can
 search your own city or open it up worldwide, and long-distance is a normal
 starting point rather than an edge case.

@@ -20,7 +20,7 @@ Events and Meetups: Explore local or virtual events that bring NRIs and Indian r
 Relationship Building: Whether you’re seeking friendship, companionship, or even romantic connections, NRI Meet offers a secure space for meaningful interactions.
 
 Making a Difference
-[NRI Meet Indian Dating App](https://nrimeet.app/download) isn't just about connections—it's about creating a sense of belonging. For NRIs, it’s a way to stay in touch with their Indian identity while living abroad. For Indian residents, it’s a chance to embrace global perspectives while strengthening their ties to the diaspora.
+[NRI Meet Indian Dating App](https://nrimeet.app/download) isn't just about connections-it's about creating a sense of belonging. For NRIs, it’s a way to stay in touch with their Indian identity while living abroad. For Indian residents, it’s a chance to embrace global perspectives while strengthening their ties to the diaspora.
 
 
 Conclusion 

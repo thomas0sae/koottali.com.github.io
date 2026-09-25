@@ -3,7 +3,7 @@ layout: post
 title: "Dating Again After Divorce as an Indian Single"
 description: >-
   When to start, what to tell people and when, handling family reactions, and
-  dating again with children — a practical guide for divorced Indian and NRI
+  dating again with children - a practical guide for divorced Indian and NRI
   singles.
 categories: [dating advice, relationships]
 image: /assets/images/haa4.jpg
@@ -11,11 +11,11 @@ faq:
   - q: "How long should you wait before dating after a divorce?"
     a: "There is no fixed period. A more useful test than time elapsed is whether you can talk about the marriage without it taking over the conversation, and whether you want a relationship rather than relief from being alone."
   - q: "Should I mention my divorce on my dating profile?"
-    a: "Yes, plainly and briefly — most apps have a field for it. Stating it up front filters for people who are fine with it and spares you the conversation with people who are not. The detail belongs in a later conversation, not in the bio."
+    a: "Yes, plainly and briefly - most apps have a field for it. Stating it up front filters for people who are fine with it and spares you the conversation with people who are not. The detail belongs in a later conversation, not in the bio."
   - q: "Is divorce still a stigma in Indian families?"
-    a: "It varies widely and has shifted considerably, particularly in the diaspora. You will meet families for whom it is a non-issue and families for whom it is not. What you can control is whether you are apologetic about it — how you present it shapes how it is received."
+    a: "It varies widely and has shifted considerably, particularly in the diaspora. You will meet families for whom it is a non-issue and families for whom it is not. What you can control is whether you are apologetic about it - how you present it shapes how it is received."
   - q: "When should I introduce a new partner to my children?"
-    a: "Not until the relationship is settled and you are reasonably confident it will last — months rather than weeks for most people. Children absorb a series of short-lived introductions badly, and there is rarely anything lost by waiting."
+    a: "Not until the relationship is settled and you are reasonably confident it will last - months rather than weeks for most people. Children absorb a series of short-lived introductions badly, and there is rarely anything lost by waiting."
 ---
 
 Dating after a divorce is not the same activity you did in your twenties, and
@@ -32,13 +32,13 @@ divorce says about a person. Most of that is more manageable than it feels.
 ### A better test than time
 
 People ask how long to wait. A year is the number that gets repeated, and it is
-essentially arbitrary — some people are ready in six months, others are not in
+essentially arbitrary - some people are ready in six months, others are not in
 three years.
 
 Two more useful questions:
 
 **Can you talk about the marriage without it taking over?** Not whether you feel
-nothing about it — that would be unusual. Whether you can give someone a short,
+nothing about it - that would be unusual. Whether you can give someone a short,
 even account of what happened and then move on to something else. If every
 conversation routes back to your ex, that is not a date, it is processing, and
 the other person should not be the one holding it.
@@ -68,7 +68,7 @@ Say it. One word in the relevant field, or a short line in the bio.
 
 The reasoning is straightforward: people who are not open to dating someone
 divorced will find out eventually, and it is much better that they find out
-before you have invested three weeks. Stating it plainly also sets the tone —
+before you have invested three weeks. Stating it plainly also sets the tone -
 it is a fact about your life, not a confession.
 
 What does not belong in a bio is the story. No detail, no blame, no defence.
@@ -79,7 +79,7 @@ covers the rest of what to include.
 ### In conversation
 
 Somebody will ask what happened. A good answer is short, factual and free of
-blame — two or three sentences that could be said in front of your ex without
+blame - two or three sentences that could be said in front of your ex without
 embarrassment.
 
 > We married young, wanted different things by the end, and it took us a while
@@ -89,8 +89,8 @@ That is enough. It answers the question, signals that you are not carrying it
 around as a grievance, and leaves the door open to say more later if the
 relationship gets there.
 
-Save the full version for someone who has earned it. Early detail — particularly
-detailed criticism of an ex — is the most common reason a promising second date
+Save the full version for someone who has earned it. Early detail - particularly
+detailed criticism of an ex - is the most common reason a promising second date
 does not become a third.
 
 ### If you have children
@@ -119,7 +119,7 @@ respond to it more than the fact itself does. Matter-of-fact gets treated as a
 matter of fact.
 
 **Expect to be managed.** Some families become more involved after a divorce,
-not less — more introductions, more urgency, more advice. Decide early how much
+not less - more introductions, more urgency, more advice. Decide early how much
 of that you want and say so plainly, rather than absorbing it and resenting it.
 
 **Do not accept a lowered bar.** The suggestion, sometimes unspoken, that you
@@ -159,7 +159,7 @@ covers the other direction.
 
 ### Go slowly, on purpose
 
-There is a pull towards moving fast after a divorce — you know what you want,
+There is a pull towards moving fast after a divorce - you know what you want,
 you have lost years, the logistics are complicated. Resist it a little. Give
 yourself long enough to see the person under ordinary strain, and to notice
 whether you like who you are around them.
@@ -172,7 +172,7 @@ going to be comfortable with it.
 
 [NRI Meet]({{ '/download/' | relative_url }}) is free, and lets you set your
 marital status, what you are looking for, and the language, city and background
-you would like to have in common — so the conversation starts from a place where
+you would like to have in common - so the conversation starts from a place where
 none of that needs explaining.
 
 ## The short version

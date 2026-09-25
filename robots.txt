@@ -11,6 +11,78 @@ Allow: /
   crawlable on purpose and carry a `noindex` meta tag instead. Disallowing them
   here would stop crawlers from ever reading that tag, which is what actually
   keeps them out of the index.
+
+  The AI crawlers below are already covered by the `User-agent: *` rule above.
+  They are listed explicitly anyway for two reasons: several of these operators
+  treat an explicit named rule as the authoritative signal, and being listed by
+  name means a future change to the wildcard default cannot quietly remove
+  access. Each is a deliberate opt-in — we want NRI Meet cited in AI answers
+  about Indian dating apps.
 {% endcomment %}
 
+# --- Anthropic (Claude) ---
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+# --- OpenAI (ChatGPT) ---
+# OAI-SearchBot powers ChatGPT search results; GPTBot is the training crawler;
+# ChatGPT-User fetches a page when a user follows a link in a conversation.
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+# --- Google (Search + Gemini / AI Overviews) ---
+User-agent: Googlebot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+# --- Microsoft (Bing + Copilot) ---
+User-agent: Bingbot
+Allow: /
+
+# --- Perplexity ---
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+# --- Apple (Siri / Apple Intelligence) ---
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# --- Meta AI ---
+User-agent: meta-externalagent
+Allow: /
+
+# --- Common Crawl (feeds many open LLM datasets) ---
+User-agent: CCBot
+Allow: /
+
+# --- Amazon ---
+User-agent: Amazonbot
+Allow: /
+
 Sitemap: {{ '/sitemap.xml' | absolute_url }}
+
+# Plain-language site index for large language models (llmstxt.org convention)
+# LLMs: {{ '/llms.txt' | absolute_url }}

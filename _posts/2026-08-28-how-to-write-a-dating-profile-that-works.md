@@ -12,7 +12,7 @@ faq:
   - q: "How many photos should I have on my dating profile?"
     a: "Four to six. One clear photo of your face, one full length, one doing something you actually do, and one or two with the setting or people around you. Fewer than three reads as a half-finished profile; more than eight rarely adds anything."
   - q: "Should I say I am looking for marriage on my profile?"
-    a: "If that is what you want, yes. Stating it plainly filters out mismatches before they cost you weeks. Say what you are looking for rather than setting a deadline — a timeline in a bio tends to put people off."
+    a: "If that is what you want, yes. Stating it plainly filters out mismatches before they cost you weeks. Say what you are looking for rather than setting a deadline - a timeline in a bio tends to put people off."
   - q: "Why is my dating profile getting no matches?"
     a: "The most common causes are a first photo where your face is unclear, an empty or one-line bio, and filters set so narrowly that very few profiles are shown to you at all. Fix those three in that order before changing anything else."
 ---
@@ -32,7 +32,7 @@ photos right is the single highest-return change you can make.
 
 ### The first photo
 
-One person — you — with your face clearly visible, well lit, and no sunglasses.
+One person - you - with your face clearly visible, well lit, and no sunglasses.
 That is the whole rule.
 
 The most common mistake by a distance is opening with a group photo. Nobody
@@ -45,9 +45,9 @@ Aim for four to six photos that each do a different job:
 
 - **A clear head-and-shoulders shot** so people know what you look like
 - **A full-length photo**, because leaving it out is noticed and assumed about
-- **You doing something you genuinely do** — cooking, hiking, at a match, on
+- **You doing something you genuinely do** - cooking, hiking, at a match, on
   stage, at a desk you are proud of
-- **Something with context** — a trip, a festival, a family occasion, your city
+- **Something with context** - a trip, a festival, a family occasion, your city
 
 Variety matters more than quality. Six well-lit photos of you in the same pose
 against the same wall tell someone less than four ordinary ones taken in four
@@ -73,7 +73,7 @@ somebody an obvious opening line.
 
 A useful bio usually has three things in it:
 
-1. **Something concrete about your life** — what you do, where you are, where
+1. **Something concrete about your life** - what you do, where you are, where
    you are from
 2. **Something specific you enjoy**, named precisely rather than generally
 3. **What you are looking for**, stated plainly
@@ -91,7 +91,7 @@ Compare these:
 > morning along the river, cook far more than one person needs to, and I am
 > slowly learning German from my neighbours. Looking for something serious.
 
-The second one is not better written. It is just answerable — there are four
+The second one is not better written. It is just answerable - there are four
 different things in it a stranger could ask about.
 
 ### Say what you want
@@ -114,7 +114,7 @@ also wants to be married within a year.
 
 ## Fill in every field the app gives you
 
-Structured fields — languages, home state, interests, education, profession —
+Structured fields - languages, home state, interests, education, profession -
 are doing two jobs at once. They tell a person something, and they tell the app
 who to show you to.
 
@@ -137,7 +137,7 @@ single home state, then conclude the app is empty. In a city with a modest
 Indian population, those three filters together can reduce the pool to almost
 nothing.
 
-Try widening one at a time — usually distance first, since a train ride is not
+Try widening one at a time - usually distance first, since a train ride is not
 the obstacle it feels like when you are setting a slider. If you are outside a
 major metro, our guide to
 [meeting Indian singles abroad]({{ '/how-to-meet-indian-singles-abroad/' | relative_url }})
@@ -151,7 +151,7 @@ Go through this in order and stop when you run out of time. The list is ranked.
 2. Get to at least four photos, each showing something different
 3. Rewrite the bio to three to five lines with at least two specific details
 4. Add a plain line about what you are looking for
-5. Fill in every structured field — languages, home state, interests,
+5. Fill in every structured field - languages, home state, interests,
    profession
 6. Complete verification
 7. Widen your distance filter, then your age range
@@ -164,7 +164,7 @@ two days makes it impossible to tell what worked.
 ## The underlying point
 
 A good profile is not a sales pitch. It is an honest, specific description of a
-person, written so that the right stranger has an easy way in — and so that the
+person, written so that the right stranger has an easy way in - and so that the
 wrong ones can tell, quickly, that it is not for them.
 
 Both halves of that matter. A profile that appeals to everybody has usually
@@ -172,4 +172,4 @@ been sanded down until it describes nobody.
 
 If you want to put this into practice, [NRI Meet]({{ '/download/' | relative_url }})
 is free on iOS and Android, and matches on the things that tend to be hard to
-explain from scratch — language, home state, and where you are now.
+explain from scratch - language, home state, and where you are now.

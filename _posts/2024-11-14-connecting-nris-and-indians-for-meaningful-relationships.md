@@ -18,11 +18,11 @@ Search Filters: You can filter profiles by location, cultural background, and sp
 Chat Feature: Start conversations in-app with other users to get to know them better before deciding to meet in person.
 Safety & Privacy: Your safety is our top priority. NRI Meet uses advanced security features and verification processes to ensure that all users are genuine and that your privacy is protected.
 What Makes [NRI Meet Indian Dating App](https://nrimeet.app/download) Different?
-Our focus on connecting NRIs with Indians sets us apart from other social and dating apps. Whether you’re living in the U.S., U.K., Australia, or India, NRI Meet helps you build real connections rooted in shared cultural values. It’s more than just a social platform—it’s about building lifelong relationships.
+Our focus on connecting NRIs with Indians sets us apart from other social and dating apps. Whether you’re living in the U.S., U.K., Australia, or India, NRI Meet helps you build real connections rooted in shared cultural values. It’s more than just a social platform-it’s about building lifelong relationships.
 
 For NRIs: Meet fellow Indians in your area, make new friends, or find a partner who shares your background and experiences.
 For Indians: If you’re in India, you can meet NRIs who share your culture, language, and values.
-[NRI Meet Indian Dating App](https://nrimeet.app/download) is not just about romantic connections—many users have found lifelong friendships through the app. It’s a space where Indians and NRIs can engage in meaningful conversations and develop relationships built on trust and mutual respect.
+[NRI Meet Indian Dating App](https://nrimeet.app/download) is not just about romantic connections-many users have found lifelong friendships through the app. It’s a space where Indians and NRIs can engage in meaningful conversations and develop relationships built on trust and mutual respect.
 
 
 Conclusion 

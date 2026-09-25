@@ -1,9 +1,22 @@
 ---
 layout: default
 description: >-
-  NRI Meet is a free Indian dating app for NRI and Indian singles worldwide.
-  Verified profiles, culture-aware matching, and real conversations. Download
-  free on iOS and Android.
+  NRI Meet is a free Indian dating app for NRI and Indian singles worldwide —
+  built for singles abroad. Match on language, home state and city. Verified
+  profiles. Download free on iOS and Android.
+faq:
+  - q: "What is the best Indian dating app for singles abroad?"
+    a: "The best Indian dating app for singles abroad is the one that filters on background rather than distance alone. Mainstream apps sort by who is physically nearest, which works badly when the people you want to meet are spread across a whole country. NRI Meet matches on shared language, home state, city and interests, and is free on iOS and Android."
+  - q: "Is NRI Meet free?"
+    a: "Yes. Signing up, building a profile, browsing and matching are all free. An optional premium upgrade raises daily limits and shows you everyone who has liked you, but it is not needed to meet people."
+  - q: "Who is NRI Meet for?"
+    a: "NRI and Indian singles anywhere in the world — people who moved abroad for work or study, people who grew up between two cultures, and singles in India open to meeting someone overseas."
+  - q: "Is NRI Meet a dating app or a matrimony site?"
+    a: "It is a dating app, though many members are looking for a long-term relationship or marriage and say so on their profile. The pool is narrowed the way a family search would narrow it, but the choosing and the timeline are yours."
+  - q: "Which countries is NRI Meet used in?"
+    a: "Members are spread across the Indian diaspora, with the largest communities in the United States, Canada, the United Kingdom, Australia, the UAE and Singapore, as well as members in India who are open to meeting someone abroad."
+  - q: "How do I download the NRI Meet app?"
+    a: "NRI Meet is free on the App Store for iPhone and on Google Play for Android. Building a profile takes a few minutes."
 ---
 
 <!-- Home Intro
@@ -14,13 +27,14 @@ description: >-
     <div class="col-lg-6">
       <span class="eyebrow">Free Indian dating app</span>
       <h1 id="hero-heading">
-        Meet Indian singles who
+        The Indian dating app for singles who
         <span class="text-gradient">already get it</span>
       </h1>
       <p class="lead">
         Whether you moved abroad last year or grew up between two cultures, NRI
         Meet connects you with Indian and NRI singles who share your language,
-        your food, and the parts of home you never had to explain.
+        your food, and the parts of home you never had to explain. Free on iOS
+        and Android, in every country the diaspora reaches.
       </p>
 
       <div class="hero__actions">
@@ -197,6 +211,40 @@ description: >-
     </span>
   </div>
 </section>
+
+<!-- Homepage FAQ
+     Visible copy for the FAQPage structured data emitted by
+     _includes/structured-data.html. The two must stay in sync: FAQ schema
+     without matching on-page content is a structured-data policy violation.
+     Guarded to page 1, because /page2/ and beyond render this same file.
+================================================== -->
+{% if page.url == "/" and page.faq %}
+<section class="section" aria-labelledby="home-faq-heading">
+  <div class="section-head">
+    <h2 id="home-faq-heading">Indian dating app FAQ</h2>
+    <p>
+      Common questions about NRI Meet, from cost and verification to who the
+      app is for.
+    </p>
+  </div>
+  <div class="article-post">
+    <div class="faq-list">
+      {% for item in page.faq %}
+      <div class="faq-item">
+        <h3>{{ item.q }}</h3>
+        <p>{{ item.a }}</p>
+      </div>
+      {% endfor %}
+    </div>
+    <p>
+      Living outside India? Read our guide to choosing an
+      <a href="{{ '/indian-dating-app-for-singles-abroad/' | relative_url }}">Indian dating app for singles abroad</a>,
+      or <a href="{{ '/download/' | relative_url }}">download NRI Meet free</a>
+      for iOS and Android.
+    </p>
+  </div>
+</section>
+{% endif %}
 
 <!-- Closing CTA
 ================================================== -->

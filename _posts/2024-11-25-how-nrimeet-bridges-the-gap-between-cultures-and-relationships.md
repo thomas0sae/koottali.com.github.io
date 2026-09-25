@@ -20,7 +20,7 @@ NRIs Seeking Connection: Stay in touch with Indian traditions while forming bond
 Indians Looking for Global Opportunities: Discover partnerships, friendships, or relationships with NRIs.
 Families Exploring Matchmaking: Bridge the distance in arranged matchmaking with modern tools and verified profiles.
 Why Join NRI Meet?
-In an era where relationships and connections often transcend borders, NRI Meet provides a space that understands the nuances of Indian culture while embracing the global lifestyle of NRIs. It’s more than just a platform—it’s a community for shared values, aspirations, and experiences.
+In an era where relationships and connections often transcend borders, NRI Meet provides a space that understands the nuances of Indian culture while embracing the global lifestyle of NRIs. It’s more than just a platform-it’s a community for shared values, aspirations, and experiences.
 
 With [NRI Meet Indian Dating App](https://nrimeet.app/download), you’re not just meeting people; you’re creating lasting connections rooted in understanding and respect. Whether you're exploring professional opportunities, cultural exchanges, or personal relationships, NRI Meet offers the perfect blend of tradition and modernity to help you find what you’re looking for.
 
@@ -29,7 +29,7 @@ Explore the world of NRI Meet today and take the first step in building bridges 
 
 Conclusion 
 
-[NRI Meet Indian Dating App](https://nrimeet.app/download) is more than just a platform—it’s a gateway to meaningful relationships and cultural exchange across borders. By blending traditional Indian values with the modern lifestyles of NRIs, it creates a unique space for connections to thrive. Whether you’re seeking friendships, professional networks, or lasting relationships, NRI Meet offers a safe and inclusive environment to build these bonds. Join NRI Meet today and become part of a community that celebrates diversity, fosters understanding, and bridges the gap between worlds.
+[NRI Meet Indian Dating App](https://nrimeet.app/download) is more than just a platform-it’s a gateway to meaningful relationships and cultural exchange across borders. By blending traditional Indian values with the modern lifestyles of NRIs, it creates a unique space for connections to thrive. Whether you’re seeking friendships, professional networks, or lasting relationships, NRI Meet offers a safe and inclusive environment to build these bonds. Join NRI Meet today and become part of a community that celebrates diversity, fosters understanding, and bridges the gap between worlds.
 
 [NRI Meet Indian Dating App](https://nrimeet.app/download)
 

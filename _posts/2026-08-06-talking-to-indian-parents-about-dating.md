@@ -2,7 +2,7 @@
 layout: post
 title: "Talking to Indian Parents About Who You're Dating"
 description: >-
-  How to tell Indian parents about a partner they may not expect — timing the
+  How to tell Indian parents about a partner they may not expect - timing the
   conversation, handling the first reaction, and holding your ground kindly.
 categories: [dating advice, family]
 image: /assets/images/had2.jpg
@@ -10,9 +10,9 @@ faq:
   - q: "When should I tell my parents about my partner?"
     a: "Once you are reasonably confident the relationship is serious, and before anyone else in the family could tell them first. Hearing it from a relative rather than from you turns a conversation about your partner into a conversation about concealment."
   - q: "What if my parents refuse to accept my partner?"
-    a: "A first refusal is often a first reaction rather than a settled position. Give it time, keep the relationship with your parents open, and let familiarity do work that argument cannot. Where the objection is genuinely fixed, you may face a real choice — but do not treat month one as the final answer."
+    a: "A first refusal is often a first reaction rather than a settled position. Give it time, keep the relationship with your parents open, and let familiarity do work that argument cannot. Where the objection is genuinely fixed, you may face a real choice - but do not treat month one as the final answer."
   - q: "How do I introduce a partner from a different religion or caste?"
-    a: "Lead with the person rather than the category. Let your parents learn who they are — their work, their family, how they treat you — before the label becomes the whole conversation. Expect it to take longer, and be patient without being apologetic."
+    a: "Lead with the person rather than the category. Let your parents learn who they are - their work, their family, how they treat you - before the label becomes the whole conversation. Expect it to take longer, and be patient without being apologetic."
   - q: "Should my partner be there for the first conversation?"
     a: "Usually not. Have the first conversation alone so your parents can react honestly without a guest present. Arrange a meeting once the initial reaction has settled."
 ---
@@ -23,7 +23,7 @@ date. It is telling your parents.
 It gets harder when the person you are seeing is from a different religion,
 caste, language group or country, or when you are simply older than your parents
 expected you to be before settling down. This is about how to handle that
-conversation well — which is not the same as making it painless.
+conversation well - which is not the same as making it painless.
 
 ## Get the timing right
 
@@ -38,7 +38,7 @@ Wait until you are reasonably confident it is serious.
 ### Not too late either
 
 The more common mistake runs the other way. Concealing a serious relationship for
-years does not avoid the conversation — it adds a second, worse one about why you
+years does not avoid the conversation - it adds a second, worse one about why you
 did not say anything.
 
 There is a particular risk in tightly connected communities: someone else tells
@@ -72,7 +72,7 @@ if not. Text is the wrong medium for it.
 ### Tell one parent first if that helps
 
 In many families one parent is the easier starting point, and can help manage the
-other. That is not manipulation — it is knowing your family. Just be careful not
+other. That is not manipulation - it is knowing your family. Just be careful not
 to leave one parent feeling deliberately excluded.
 
 ## Expect the first reaction to be the worst one
@@ -81,7 +81,7 @@ This is the most useful thing to know going in.
 
 The initial response is rarely a considered position. It is shock, and it often
 arrives as anger, tears, silence, or an argument that ranges well beyond your
-partner — what people will say, what happens to family reputation, whether you
+partner - what people will say, what happens to family reputation, whether you
 have thought about anything at all.
 
 It usually softens. Parents who reacted badly in the first hour frequently arrive
@@ -109,7 +109,7 @@ Familiarity does what argument cannot. A category is easy to object to. A person
 sitting at your table who is polite to your grandmother and remembers your
 father's knee is harder.
 
-Arrange it once the initial reaction has settled. Keep it low-stakes — a meal, an
+Arrange it once the initial reaction has settled. Keep it low-stakes - a meal, an
 afternoon, not a formal summit. Brief both sides: tell your partner what to
 expect, and tell your parents something specific to ask about so there is a way
 in.
@@ -147,7 +147,7 @@ not only in private afterwards. And be honest with them about how long this migh
 take rather than promising a quick resolution you cannot deliver.
 
 If the relationship is long-distance as well, the family conversation needs
-planning on both sides — our guide to
+planning on both sides - our guide to
 [long-distance relationships for NRI couples]({{ '/long-distance-relationship-tips-for-nri-couples/' | relative_url }})
 covers coordinating it.
 
@@ -158,7 +158,7 @@ choice between a partner and a relationship with your parents as it currently
 stands.
 
 If you reach that point, a few things are worth knowing. Do not make the decision
-in the first raw months. Talk to people who have been through it — the diaspora
+in the first raw months. Talk to people who have been through it - the diaspora
 is full of families who broke and later mended. Consider a counsellor, alone or
 together; this is a well-worn path and outside help is not a sign of failure.
 
@@ -171,5 +171,5 @@ Tell them before someone else does. Say it privately, plainly, and once. Expect
 the first reaction to be worse than the final one. Get them in a room with the
 person. Stay warm and do not move.
 
-Most of these conversations end better than they begin — usually not quickly, and
+Most of these conversations end better than they begin - usually not quickly, and
 usually not because anyone won an argument.

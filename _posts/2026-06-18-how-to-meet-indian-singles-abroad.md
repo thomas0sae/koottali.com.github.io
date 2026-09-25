@@ -2,7 +2,7 @@
 layout: post
 title: "How to Meet Indian Singles Abroad: A Practical Guide"
 description: >-
-  Practical ways to meet Indian and NRI singles when you live abroad — from
+  Practical ways to meet Indian and NRI singles when you live abroad - from
   community events and hobby groups to dating apps built for the diaspora.
 categories: [dating advice, meeting people]
 image: /assets/images/hac5.jpg
@@ -14,11 +14,11 @@ faq:
   - q: "How do I meet people if I work long hours?"
     a: "Pick recurring commitments over one-off events. A weekly class or a monthly association meetup builds familiarity over time with almost no extra planning, which works far better than trying to carve out large blocks for socialising."
   - q: "Should I tell people I am looking for marriage?"
-    a: "If that is genuinely what you want, yes — but frame it as what you are looking for long term rather than as a timeline. Being clear early filters out mismatches, while a hard deadline in a first conversation tends to put people off."
+    a: "If that is genuinely what you want, yes - but frame it as what you are looking for long term rather than as a timeline. Being clear early filters out mismatches, while a hard deadline in a first conversation tends to put people off."
 ---
 
 Meeting people is hard enough. Meeting people who understand your background,
-when you live thousands of kilometres from where you grew up, is harder — and
+when you live thousands of kilometres from where you grew up, is harder - and
 the usual advice ("just put yourself out there!") is not much help when you have
 already tried that.
 
@@ -31,7 +31,7 @@ out.
 ### Regional and cultural associations
 
 Almost every city with an Indian population has associations organised by
-language or home state — Malayali, Telugu, Tamil, Gujarati, Bengali, Punjabi and
+language or home state - Malayali, Telugu, Tamil, Gujarati, Bengali, Punjabi and
 many more. They run festival celebrations, film screenings, sports leagues and
 volunteering days.
 
@@ -41,7 +41,7 @@ conversation starts several steps further along.
 
 The catch is that they can feel family-oriented and you may be the only single
 person your age in the room. That is normal. Go a few times before deciding it
-is not for you — most of the value comes from being a familiar face rather than
+is not for you - most of the value comes from being a familiar face rather than
 a new one.
 
 ### University alumni networks
@@ -76,12 +76,12 @@ week after week, which is how acquaintances actually turn into something more.
 
 A few that tend to have strong Indian participation abroad:
 
-- **Badminton and cricket clubs** — often the most direct route to a large
+- **Badminton and cricket clubs** - often the most direct route to a large
   Indian social circle in Western countries
-- **Classical music and dance classes** — Bharatanatyam, Carnatic and Hindustani
+- **Classical music and dance classes** - Bharatanatyam, Carnatic and Hindustani
   classes for adults exist in most large cities
-- **Board game and trivia nights** — low pressure, conversation-heavy
-- **Hiking and running groups** — long, unhurried conversations built in
+- **Board game and trivia nights** - low pressure, conversation-heavy
+- **Hiking and running groups** - long, unhurried conversations built in
 
 Choose the one you will still attend in month three. Enthusiasm in week one is
 not a useful signal.
@@ -90,7 +90,7 @@ not a useful signal.
 
 General dating apps work on proximity. That is a poor fit if what matters to you
 is language, home state, or whether someone understands the family context you
-are operating in — those are the things you end up spending your first three
+are operating in - those are the things you end up spending your first three
 dates establishing.
 
 An app aimed at the Indian diaspora inverts that. [NRI Meet]({{ '/download/' | relative_url }})
@@ -105,7 +105,7 @@ sunglasses, and at least one showing you doing something. Group photos as your
 main image are the most common avoidable mistake.
 
 **Write something specific.** "Love travelling, foodie, looking for my partner in
-crime" is invisible — it describes almost everyone. "I will argue about whether
+crime" is invisible - it describes almost everyone. "I will argue about whether
 Kerala or Tamil Nadu does better beef fry, and I lose every time" gives someone
 an actual opening.
 
@@ -116,7 +116,7 @@ who want the same thing will be glad you said so.
 **Message like a person.** Reference something from their profile. "Hey" gets
 ignored, and reasonably so.
 
-## Ask your network — properly
+## Ask your network - properly
 
 Being introduced through someone you both know remains one of the highest-quality
 ways to meet a partner, because it comes with a built-in reference.
@@ -129,7 +129,7 @@ actually act on:
 > Toronto, who wants a serious relationship. If anyone comes to mind, I'd love
 > an introduction."
 
-Tell a handful of people who know a lot of others — the cousin who is at every
+Tell a handful of people who know a lot of others - the cousin who is at every
 wedding, the aunt with an extensive network, the colleague who organises
 everything. You do not need to announce it broadly.
 
@@ -140,7 +140,7 @@ the problem is the radius, not the standards.
 
 Opening your search to the nearest large metro, or to a neighbouring country, or
 worldwide, changes the maths considerably. It means early dates may involve
-travel and some conversation happens over video first — which is exactly how a
+travel and some conversation happens over video first - which is exactly how a
 lot of diaspora relationships start, and it works. If it goes somewhere, our
 guide to
 [long-distance relationships for NRI couples]({{ '/long-distance-relationship-tips-for-nri-couples/' | relative_url }})
@@ -176,5 +176,5 @@ tell your network something specific, and use an app that starts from the common
 ground you care about.
 
 [NRI Meet]({{ '/download/' | relative_url }}) is free on iOS and Android, and
-takes a few minutes to set up. It is a reasonable place to start tonight — but
+takes a few minutes to set up. It is a reasonable place to start tonight - but
 the hobby group matters just as much.
